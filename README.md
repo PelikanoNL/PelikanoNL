@@ -25,7 +25,7 @@ Si un software, una página web o un sistema tiene un fallo de comportamiento, m
 
 | Área | Herramientas y Recursos |
 | :--- | :--- |
-| **Entornos de Trabajo** | GitHub Codespaces, Visual Studio Code y Terminal de comandos (Bash) |
+| **Entornos de Trabajo** | GitHub Codespaces, Visual Studio Code y Terminal de comandos (Bash) como medios para abrir y gestionar archivos si el problema lo requiere.|
 | **Stack Visual** | Análisis de la estructura de scripts (JavaScript, Python, Java), HTML y CSS |
 | **Documentación** | Resolución de problemas guiada por documentación técnica de expertos y foros profesionales |
 
